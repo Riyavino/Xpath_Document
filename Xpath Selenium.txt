@@ -1,3 +1,6 @@
 Xpath Syntax
 
 Xpath=//tagname[@attribute='value']
+Types
+*Relative 
+*Absolute
